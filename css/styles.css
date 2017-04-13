@@ -35,7 +35,7 @@ header, footer {
 
 }
 
-header img {
+img.center {
   width: 50%;
   border-radius: 15px;
   margin: 450px 450px 450px 450px
