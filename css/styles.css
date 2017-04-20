@@ -35,10 +35,10 @@ header, footer {
 
 }
 
-img.center {
+img, {
   width: 50%;
   border-radius: 15px;
-  margin: 450px 450px 450px 450px
+  margin: auto;
 }
 
 .main-content {
