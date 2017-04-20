@@ -24,8 +24,8 @@ body {
 }
 
 .wrapper {
-  width: 960px;
-  margin: 0 auto;
+  width: 50%;
+  margin: auto;
 }
 
 header, footer {
